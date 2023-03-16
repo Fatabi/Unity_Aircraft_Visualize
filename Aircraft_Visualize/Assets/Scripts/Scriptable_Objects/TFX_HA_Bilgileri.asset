@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1dc610d0ee8167439b859da7d403cb9, type: 3}
+  m_Name: TFX_HA_Bilgileri
+  m_EditorClassIdentifier: 
+  x_m: 0
+  y_m: 0
+  z_m: 0
+  phi_der: 0
+  theta_der: 0
+  psi_der: 0
+  CG_X_m: 0
+  CG_Y_m: 0
+  CG_Z_m: 0
+  alpha_der: 0
+  beta_der: 0
+  gamma_der: 0
+  TAS_m_sn: 0
+  Mach: 0
+  elevator_der: 0
+  aileron_der: 0
+  rudder_der: 0
+  flap_der: 0
+  itki_per: 0
